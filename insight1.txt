@@ -1,4 +1,0 @@
-Insight 1: Average Monthly Charges (Scaled) by Churn status
-Churn
-0   -0.116212
-1    0.321712

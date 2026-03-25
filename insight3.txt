@@ -1,5 +1,0 @@
-Insight 3: Correlation Matrix between Tenure, Monthly and Total Charges
-                  tenure  MonthlyCharges  TotalCharges
-tenure          1.000000        0.247900      0.825464
-MonthlyCharges  0.247900        1.000000      0.650864
-TotalCharges    0.825464        0.650864      1.000000

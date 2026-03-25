@@ -1,7 +1,0 @@
-K-Means Clustering Results (k=4)
---------------------------------
-Cluster ID : Number of Samples
-Cluster 0 : 2790
-Cluster 1 : 1903
-Cluster 2 : 924
-Cluster 3 : 1426
