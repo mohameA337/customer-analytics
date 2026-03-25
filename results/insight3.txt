@@ -1,0 +1,6 @@
+Advanced Insight 3: Statistical Significance (Welch's T-Test)
+----------------------------------------------------------
+Churned Customers Avg Monthly Charge: $74.44
+Retained Customers Avg Monthly Charge: $61.27
+T-Statistic: 18.4075, P-Value: 8.59e-73
+Conclusion: The p-value is < 0.05, proving with high statistical significance that higher monthly charges directly drive customer churn. Price sensitivity is a confirmed analytical factor.

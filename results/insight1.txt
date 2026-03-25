@@ -1,0 +1,5 @@
+Advanced Insight 1: Multi-dimensional Churn Risk Analysis
+----------------------------------------------------------
+Customers with 'Month-to-month' contracts and 'Fiber optic' internet have a critically high churn rate of 54.61%.
+This is 19.3x higher than the churn rate of 'Two year' contract holders (2.83%).
+Conclusion: The intersection of short-term billing and premium internet service is the primary vector for customer attrition.

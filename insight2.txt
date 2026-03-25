@@ -1,0 +1,5 @@
+Insight 2: Customer distribution across tenure groups
+tenure_group
+2    2618
+0    2239
+1    2186

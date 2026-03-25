@@ -1,0 +1,9 @@
+Advanced Insight 2: Customer Lifetime Value (CLTV) Segmentation
+----------------------------------------------------------
+                 ARPU (Avg Monthly)  Avg Lifetime (Months)   CLTV Proxy
+InternetService                                                        
+DSL                       58.104444              32.889487  2119.789259
+Fiber optic               91.463878              32.917959  3205.304570
+No                        21.129634              30.667763   665.220329
+
+Conclusion: Fiber optic generates the highest ARPU but requires targeted retention to maximize their Lifetime (Months) and overall CLTV.
