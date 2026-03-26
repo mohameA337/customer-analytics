@@ -1,10 +1,10 @@
 # Big Data Assignment 1: Customer Analytics Pipeline
 
 ## Team Members
-- [Member 1 Name]
-- [Member 2 Name]
-- [Member 3 Name]
-- [Member 4 Name]
+- Mohamed Ayoub
+- lauren banoud
+- Amr mohamed elhassaneen
+- yousef ghazali
 
 ## Overview
 This repository contains an end-to-end data pipeline enclosed within a Docker environment. The pipeline ingests the raw **Telco Customer Churn dataset**, cleans it, engineers features, generates advanced statistical analytics, produces visualizations, and performs K-Means clustering.
@@ -70,7 +70,3 @@ Cluster 2 : 1104
 Cluster 3 : 1682
 ```
 
-## Bonus Tasks Completed
-- The docker image was successfully set up to push to Docker Hub completely dynamically via `docker_push.bat`.
-  `docker tag customer-analytics <username>/customer-analytics && docker push <username>/customer-analytics`
-- Code pushed to GitHub with this detailed comprehensive README.
