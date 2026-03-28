@@ -1,10 +1,10 @@
 # Big Data Assignment 1: Customer Analytics Pipeline
 
 ## Team Members
-- [Member 1 Name]
-- [Member 2 Name]
-- [Member 3 Name]
-- [Member 4 Name]
+- Mohamed Ayoub
+- Amr El hassaneen
+- lauren banoud
+- yousef ghazali
 
 ## Overview
 This repository contains an end-to-end data pipeline enclosed within a Docker environment. The pipeline ingests the raw **Telco Customer Churn dataset**, cleans it, engineers features, generates advanced statistical analytics, produces visualizations, and performs K-Means clustering.
