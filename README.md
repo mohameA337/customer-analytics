@@ -70,7 +70,3 @@ Cluster 2 : 1104
 Cluster 3 : 1682
 ```
 
-## Bonus Tasks Completed
-- The docker image was successfully set up to push to Docker Hub completely dynamically via `docker_push.bat`.
-  `docker tag customer-analytics <username>/customer-analytics && docker push <username>/customer-analytics`
-- Code pushed to GitHub with this detailed comprehensive README.
